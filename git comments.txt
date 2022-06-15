@@ -1,6 +1,7 @@
 git init
 git add README.md
+git config --global user.email mozhi4yazhu@gmail.com
 git commit -m "first commit"
-git branch -M main
+git branch -M master
 git remote add origin https://github.com/Lakshmi1230/Demogit.git
-git push -u origin main
+git push -u origin master
